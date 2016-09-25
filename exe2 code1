@@ -11,7 +11,7 @@ b=0
 while b<4:
     b=b+1
     for i in l:
-	    print '    '*b+i
+	print '    '*b+i
     time.sleep(b*0.5)
     i=os.system('cls')
 for i in l:
