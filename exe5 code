@@ -191,5 +191,3 @@ a=differ(time_step=0.1,v0=700,theta=45,g=9.8,bm=4e-5,T=200,a=6.5e-3,c=2.5)
 a.cannon_adiabatic()
 a.show_results('d')
 pl.show()
-
-c
