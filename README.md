@@ -7,7 +7,8 @@
 ####Chapter 1 problem 1.5:The decay of two kinds of particles
 ###[Exercise 05](https://www.zybuluo.com/74849b/note/533586)
 ####Chapter 2 problem 2.9:The trajectory of a cannon shell
-###[Exercise 06:Chapter 2 problem 2.9&2.10:The cannon](https://www.zybuluo.com/74849b/note/497801)
+###[Exercise 06](https://www.zybuluo.com/74849b/note/541846)
+####Chapter 2 problem 2.10:Targeting
 ###[Exercise 07:Chapter 2 problem 2.19:The spin of baseball and Visual motion of baseball](https://www.zybuluo.com/74849b/note/497801)
 ###[Exercise 08:Chapter 3 problem 3.4:Non-linear oscillator](https://www.zybuluo.com/74849b/note/497801)
 ###[Exercise 09:Chapter 3 problem 3.16:Strange attractor](https://www.zybuluo.com/74849b/note/497801)
