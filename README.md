@@ -9,7 +9,8 @@
 ####Chapter 2 problem 2.9:The trajectory of a cannon shell
 ###[Exercise 06](https://www.zybuluo.com/74849b/note/541846)
 ####Chapter 2 problem 2.10:Targeting
-###[Exercise 07:Chapter 2 problem 2.19:The spin of baseball and Visual motion of baseball](https://www.zybuluo.com/74849b/note/497801)
+###[Exercise 07](https://www.zybuluo.com/74849b/note/549493)
+####Chapter 3 problem 3.13:divergence
 ###[Exercise 08:Chapter 3 problem 3.4:Non-linear oscillator](https://www.zybuluo.com/74849b/note/497801)
 ###[Exercise 09:Chapter 3 problem 3.16:Strange attractor](https://www.zybuluo.com/74849b/note/497801)
 ###[Exercise 10:Chapter 3 problem 3.31:Billiard ball on diverse table](https://www.zybuluo.com/74849b/note/497801)
