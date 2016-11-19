@@ -13,7 +13,8 @@
 ####Chapter 3 problem 3.13:divergence
 ###[Exercise 08](https://www.zybuluo.com/74849b/note/564877)
 ####Chapter 3 problem 3.20:bifurcation diagram
-###[Exercise 09:Chapter 3 problem 3.16:Strange attractor](https://www.zybuluo.com/74849b/note/497801)
+###[Exercise 09](https://www.zybuluo.com/74849b/note/572548)
+####Chapter 3 problem 3.31:tabel
 ###[Exercise 10:Chapter 3 problem 3.31:Billiard ball on diverse table](https://www.zybuluo.com/74849b/note/497801)
 ###[Exercise 11:Chapter 4 problem 4.11:The percession of Mercury](https://www.zybuluo.com/74849b/note/497801)
 ###[Exercise 12:Chapter 4 problem 4.18:The Kirkwood Gap](https://www.zybuluo.com/74849b/note/497801)
