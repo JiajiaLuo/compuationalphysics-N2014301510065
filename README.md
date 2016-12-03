@@ -17,7 +17,8 @@
 ####Chapter 3 problem 3.31:tabel
 ###[Exercise 10](https://www.zybuluo.com/74849b/note/580028)
 ####Chapter 4:Mercury
-###[Exercise 11:Chapter 4 problem 4.11:The percession of Mercury](https://www.zybuluo.com/74849b/note/497801)
+###[Exercise 11](https://www.zybuluo.com/74849b/note/588702)
+####Chapter 4:Hyperion
 ###[Exercise 12:Chapter 4 problem 4.18:The Kirkwood Gap](https://www.zybuluo.com/74849b/note/497801)
 ###[Exercise 13:Chapter 5 problem 5.7:The Jacobi method v.s.The SOR algorithm](https://www.zybuluo.com/74849b/note/497801)
 ###[Exercise 14:Chapter 6 problem 6.15:The realistic string problem](https://www.zybuluo.com/74849b/note/497801)
