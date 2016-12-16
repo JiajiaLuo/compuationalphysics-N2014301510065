@@ -21,6 +21,7 @@
 ####Chapter 4:Hyperion
 ###[Exercise 12](https://www.zybuluo.com/74849b/note/596321)
 ####Chapter 5:potential
-###[Exercise 13:Chapter 5 problem 5.7:The Jacobi method v.s.The SOR algorithm](https://www.zybuluo.com/74849b/note/497801)
+###[Exercise 13](https://www.zybuluo.com/74849b/note/603609)
+####Chapter 6:wave
 ###[Exercise 14:Chapter 6 problem 6.15:The realistic string problem](https://www.zybuluo.com/74849b/note/497801)
 ###[Final Project:用轨道能量分析Kirkwood Gap的缝宽](https://www.zybuluo.com/74849b/note/497801)
