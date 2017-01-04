@@ -1,0 +1,75 @@
+import numpy as np
+import pylab as pl
+from math import *
+import random
+x=[0 for i in range(101)]
+t=np.linspace(0,100,101)
+n=100
+for i in range(n):
+    x0=random.random()
+    if x0<0.5:
+        x[i+1]=x[i]+1
+    if x0>=0.5:
+        x[i+1]=x[i]-1
+x1=[0 for i in range(101)]
+for i in range(n):
+    x2=random.random()
+    if x2<0.5:
+        x1[i+1]=x1[i]+1
+    if x2>=0.5:
+        x1[i+1]=x1[i]-1
+x4=[0 for i in range(101)]
+for i in range(n):
+    x3=random.random()
+    if x3<0.5:
+        x4[i+1]=x4[i]+1
+    if x3>=0.5:
+        x4[i+1]=x4[i]-1
+o=np.linspace(0,0,101)
+def plot():
+    pl.plot(t,o)
+    pl.plot(t,x,'go')
+    pl.plot(t,x1,'ro')
+    pl.plot(t,x4,'ko')
+    pl.xlim(0,100)
+    pl.xlabel('step number')
+    pl.ylabel('x')
+    pl.title('random walk in one dimension')
+    pl.show()
+plot()
+
+
+import numpy as np
+import pylab as pl
+from math import *
+import random
+x=[0 for i in range(101)]
+t=np.linspace(0,100,101)
+n=100
+for i in range(n):
+    x0=random.random()
+    y0=random.random()
+    if x0<0.5:
+        x[i+1]=x[i]+y0
+    if x0>=0.5:
+        x[i+1]=x[i]-y0
+x1=[0 for i in range(101)]
+for i in range(n):
+    x2=random.random()
+    y2=random.random()
+    if x2<0.5:
+        x1[i+1]=x1[i]+y2
+    if x2>=0.5:
+        x1[i+1]=x1[i]-y2
+o=np.linspace(0,0,101)
+def plot():
+    pl.plot(t,o,'k',label='random step lengths')
+    pl.plot(t,x,'go')
+    pl.plot(t,x1,'ro')
+    pl.legend(loc="best",fontsize=12)
+    pl.xlim(0,100)
+    pl.xlabel('step number')
+    pl.ylabel('x')
+    pl.title('random walk in one dimension')
+    pl.show()
+plot()
