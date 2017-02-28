@@ -11,17 +11,13 @@
 ####Chapter 2 problem 2.10:Targeting
 ###[Exercise 07](https://www.zybuluo.com/74849b/note/549493)
 ####Chapter 3 problem 3.13:divergence
-###[Exercise 08](https://www.zybuluo.com/74849b/note/564877)
-####Chapter 3 problem 3.20:bifurcation diagram
-###[Exercise 09](https://www.zybuluo.com/74849b/note/572548)
+###[Exercise 08](https://www.zybuluo.com/74849b/note/572548)
 ####Chapter 3 problem 3.31:tabel
-###[Exercise 10](https://www.zybuluo.com/74849b/note/580028)
-####Chapter 4:Mercury
-###[Exercise 11](https://www.zybuluo.com/74849b/note/588702)
+###[Exercise 09](https://www.zybuluo.com/74849b/note/588702)
 ####Chapter 4:Hyperion
-###[Exercise 12](https://www.zybuluo.com/74849b/note/596321)
+###[Exercise 10](https://www.zybuluo.com/74849b/note/596321)
 ####Chapter 5:potential
-###[Exercise 13](https://www.zybuluo.com/74849b/note/603609)
+###[Exercise 11](https://www.zybuluo.com/74849b/note/603609)
 ####Chapter 6:wave
 
 ###[Final Project](https://www.zybuluo.com/74849b/note/619124)
